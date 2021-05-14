@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @heorhi-bel
+- 👋 Hi, I’m George.
 - 👀 I’m interested in front-end developing.
 - 🌱 I’m currently learning React.js.
 
